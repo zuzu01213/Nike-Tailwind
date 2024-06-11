@@ -1,4 +1,4 @@
-import { arrowRight } from "../assets/icons";
+
 import { offer } from "../assets/images";
 import { Button } from "../components/Button.jsx";
 
@@ -32,12 +32,13 @@ const SpecialOffer = () => {
         <div className='mt-11 flex flex-wrap gap-4'>
           <Button label='View Details'  />
           <Button
-            label='Learn more'
-            backgroundColor='bg-white'
-            borderColor='border-slate-gray'
-            textColor='text-slate-400'
+              label='Learn more'
+              backgroundColor='bg-white'
+              borderColor='border-slate-gray'
+              textColor='text-slate-600'
 
           />
+
         </div>
       </div>
     </section>

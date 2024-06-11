@@ -1,6 +1,6 @@
 import {products} from "../Constants/index.js";
 import {PopularProductCard} from "../components/PopularProductCard.jsx";
-import(PopularProductCard)
+
 
 export const PopularProducts = () => {
     return (
